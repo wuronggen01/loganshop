@@ -1,0 +1,28 @@
+{
+  "name": "loganshop",
+  "version": "1.0.0",
+  "description": "网上商城",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuronggen01/loganshop.git"
+  },
+  "keywords": [
+    "shop",
+    "node",
+    "express",
+    "bower"
+  ],
+  "author": "logan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wuronggen01/loganshop/issues"
+  },
+  "homepage": "https://github.com/wuronggen01/loganshop#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
